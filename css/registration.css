@@ -1,0 +1,35 @@
+body{
+    height: 100%;
+    width: 100%;
+    background: wheat;
+}
+.registration{
+    height: 100%;
+    width: 100%;
+    padding: 60px 200px;
+    background: linear-gradient(rgb(252, 224, 224),rgb(214, 253, 214),rgb(253, 253, 215));
+    box-shadow: 2px 2px 12px gray;
+}
+.registration .head-img{
+    height: 170px;
+    width: 250px;
+    border: none;
+    /* border-radius: 50%; */
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    /* background: linear-gradient(wheat,rgb(247, 232, 235)); */
+    overflow: hidden;
+    /* margin-top: 30px; */
+    margin-left: 50%;
+    transform: translate(-50%);
+}
+.registration .head-img img{
+    height: 100%;
+    width: 100%;
+}
+.form-group span{
+    color: red;
+}
+.container .header h2{
+    margin-top: -60px;
+}

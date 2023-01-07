@@ -1,0 +1,18 @@
+body{
+    height: 100%;
+    width: 100%;
+    /* background: linear-gradient(red,green,yellow); */
+}
+#service{
+    height: 100%;
+    width: 100%;
+    /* background: linear-gradient(red,green,yellow); */
+}
+#service-item{
+    height: 100%;
+    width: 100%;
+    background: rgb(252, 229, 229);
+    padding: 5px 10px;
+    margin: 4px;
+    border-radius: 6px;
+}

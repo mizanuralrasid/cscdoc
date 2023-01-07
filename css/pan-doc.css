@@ -1,0 +1,19 @@
+.pan-doc{
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(rgb(230, 228, 228),rgb(222, 225, 222),rgb(205, 205, 204));
+}
+.apply-btn{
+    width: 100%;
+}
+.apply-btn a{
+    height: 20px;
+    width: 40px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.apply-btn a img{
+    height: 25px;
+    width: 60px;
+    border-radius: 10px;
+}

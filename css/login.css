@@ -1,0 +1,19 @@
+@media (max-width:991px){
+    .box{
+        width: 90%;
+    }
+}
+@media (max-width:400px){
+    .box{
+        width: 98%;
+    }
+}
+
+.box{
+    background: linear-gradient(rgb(253, 230, 230),rgb(229, 253, 229),rgb(252, 252, 220));
+    box-shadow: 2px 2px 20px gray;
+    border-radius: 8px;
+}
+.admin_login{
+    background: red;
+}
